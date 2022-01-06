@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Base64_Encrypt
+namespace Text_Encrypt
 {
     static class Program
     {
